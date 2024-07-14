@@ -1,14 +1,14 @@
 === vividmono ===
 Contributors: Dean Sas
-Requires at least: 6.5
-Tested up to: 6.5
+Requires at least: 6.6
+Tested up to: 6.6
 Requires PHP: 5.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Some stuff
+VividMono is designed to be a clean and simple theme for personal blogging. It features a monochrome palette with a variety of style variations each adding a burst of vivid colour to bring your blog to life.
 
 == Changelog ==
 
@@ -41,4 +41,3 @@ Urbanist
 Copyright 2021 The Urbanist Project Authors (https://github.com/coreyhu/Urbanist)
 Source: https://www.coreyhu.com
 License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL
-
