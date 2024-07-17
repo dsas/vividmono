@@ -12,6 +12,9 @@ VividMono is designed to be a clean and simple theme for personal blogging. It f
 
 == Changelog ==
 
+= 1.0.1 =
+* Optimise screenshot.png filesize
+
 = 1.0.0 =
 * Initial release
 
