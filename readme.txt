@@ -44,3 +44,8 @@ Urbanist
 Copyright 2021 The Urbanist Project Authors (https://github.com/coreyhu/Urbanist)
 Source: https://www.coreyhu.com
 License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL
+
+== Images ==
+Image for theme screenshot, Credit Dean Sas
+License: CC0 1.0 Universal (CC0 1.0)
+License URL: https://creativecommons.org/publicdomain/zero/1.0/deed.en
