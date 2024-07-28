@@ -407,7 +407,7 @@
 			"core/navigation-link": [],
 			"core/navigation-submenu": [],
 			"core/page-list": {
-				"css": "& {list-style-type:none;} & li+li{margin-top: 0.5rem;}",
+				"css": "& {list-style-type:none;}",
 				"spacing": {
 					"padding": {
 						"left": "0"
