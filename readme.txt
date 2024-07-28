@@ -12,6 +12,11 @@ VividMono is designed to be a clean and simple theme for personal blogging. It f
 
 == Changelog ==
 
+= 1.0.2 =
+* Add copyright statement for screenshot.png
+* Tweak page-list CSS to avoid minor layout issue with WP6.6
+* Update screenshot.png to comply with wp.org rules
+
 = 1.0.1 =
 * Optimise screenshot.png filesize
 
