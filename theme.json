@@ -211,8 +211,8 @@
 					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
-			"core/audio": [],
-			"core/avatar": [],
+			"core/audio": {},
+			"core/avatar": {},
 			"core/button": {
 				"css": "",
 				"variations": {
@@ -284,8 +284,8 @@
 					}
 				}
 			},
-			"core/column": [],
-			"core/columns": [],
+			"core/column": {},
+			"core/columns": {},
 			"core/comment-author-name": {
 				"typography": {
 					"fontSize": "var(--wp--preset--font-size--small)"
@@ -338,12 +338,12 @@
 					}
 				}
 			},
-			"core/comment-template": [],
-			"core/comments": [],
-			"core/comments-pagination": [],
-			"core/comments-pagination-next": [],
-			"core/comments-pagination-numbers": [],
-			"core/comments-pagination-previous": [],
+			"core/comment-template": {},
+			"core/comments": {},
+			"core/comments-pagination": {},
+			"core/comments-pagination-next": {},
+			"core/comments-pagination-numbers": {},
+			"core/comments-pagination-previous": {},
 			"core/comments-title": {
 				"spacing": {
 					"margin": {
@@ -363,13 +363,13 @@
 					"padding": "var(--wp--preset--spacing--50)"
 				}
 			},
-			"core/details": [],
-			"core/embed": [],
-			"core/footnotes": [],
-			"core/gallery": [],
-			"core/group": [],
-			"core/heading": [],
-			"core/home-link": [],
+			"core/details": {},
+			"core/embed": {},
+			"core/footnotes": {},
+			"core/gallery": {},
+			"core/group": {},
+			"core/heading": {},
+			"core/home-link": {},
 			"core/image": {
 				"css": " .wp-element-caption{text-align:center;}"
 			},
@@ -391,9 +391,9 @@
 					}
 				}
 			},
-			"core/list-item": [],
-			"core/loginout": [],
-			"core/media-text": [],
+			"core/list-item": {},
+			"core/loginout": {},
+			"core/media-text": {},
 			"core/navigation": {
 				"css": ".wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container {border-color:var(--wp--preset--color--contrast);} & .wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-dialog{padding:var(--wp--style--block-gap);} & .wp-block-navigation__responsive-container-close{right:var(--wp--style--block-gap);top:var(--wp--style--block-gap);} & .wp-block-page-list li+li{margin-top:0;}",
 				"spacing": {
@@ -404,8 +404,8 @@
 					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
-			"core/navigation-link": [],
-			"core/navigation-submenu": [],
+			"core/navigation-link": {},
+			"core/navigation-submenu": {},
 			"core/page-list": {
 				"css": "& {list-style-type:none;}",
 				"spacing": {
@@ -455,7 +455,7 @@
 					"fontSize": "var(--wp--preset--font-size--x-small)"
 				}
 			},
-			"core/post-excerpt": [],
+			"core/post-excerpt": {},
 			"core/post-featured-image": {
 				"border": {
 					"bottom": {
@@ -515,7 +515,7 @@
 					"lineHeight": "1"
 				}
 			},
-			"core/post-template": [],
+			"core/post-template": {},
 			"core/post-terms": {
 				"css": "& a {padding:5px; color:var(--wp--preset--color--base);background-color:var(--wp--preset--color--primary);}",
 				"elements": {
@@ -578,7 +578,7 @@
 					"fontStyle": "italic"
 				}
 			},
-			"core/query-no-results": [],
+			"core/query-no-results": {},
 			"core/query-pagination": {
 				"color": {
 					"background": "var(--wp--preset--color--base)",
@@ -687,7 +687,7 @@
 					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
-			"core/rss": [],
+			"core/rss": {},
 			"core/search": {
 				"css": "& :where(.wp-block-search__button-inside .wp-block-search__inside-wrapper){background-color:#fff;} & :where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) .wp-block-search__input{padding: 0 8px;} & .wp-block-search__button{margin-bottom:0;",
 				"typography": {
@@ -705,7 +705,7 @@
 					"text": "var(--wp--preset--color--primary)"
 				}
 			},
-			"core/site-logo": [],
+			"core/site-logo": {},
 			"core/site-tagline": {
 				"typography": {
 					"fontSize": "var(--wp--preset--font-size--small)"
@@ -746,7 +746,7 @@
 					}
 				}
 			},
-			"core/spacer": [],
+			"core/spacer": {},
 			"core/table": {
 				"css": "& thead{border-bottom-width: 1px;} & tfoot{border-top-width: 1px;} & + .wp-element-caption{text-align:center;}"
 			},
@@ -759,8 +759,8 @@
 					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
-			"core/verse": [],
-			"core/video": []
+			"core/verse": {},
+			"core/video": {}
 		},
 		"color": {
 			"background": "var(--wp--preset--color--base)",
