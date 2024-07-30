@@ -12,6 +12,12 @@ VividMono is designed to be a clean and simple theme for personal blogging. It f
 
 == Changelog ==
 
+= 1.0.3 =
+* Update copyright statement for image contained within screenshot
+* Improve accessibility of links
+* Use a main tag in the front-page, again to improve accessibility
+* Make the theme.json valid.
+
 = 1.0.2 =
 * Add copyright statement for screenshot.png
 * Tweak page-list CSS to avoid minor layout issue with WP6.6
@@ -51,6 +57,6 @@ Source: https://www.coreyhu.com
 License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL
 
 == Images ==
-Image for theme screenshot, Credit Dean Sas
+Image used in theme screenshot, is self-created, Credit Dean Sas
 License: CC0 1.0 Universal (CC0 1.0)
 License URL: https://creativecommons.org/publicdomain/zero/1.0/deed.en
