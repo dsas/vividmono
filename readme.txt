@@ -1,7 +1,7 @@
 === vividmono ===
 Contributors: Dean Sas
 Requires at least: 6.6
-Tested up to: 6.6.1
+Tested up to: 6.6
 Requires PHP: 5.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -11,6 +11,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 VividMono is designed to be a clean and simple theme for personal blogging. It features a monochrome palette with a variety of style variations each adding a burst of vivid colour to bring your blog to life.
 
 == Changelog ==
+
+= 1.1 =
+ * Remove ref attribute from navigation block
+ * Improve responsitivity on front page for posts with categories & tags
 
 = 1.0.3 =
 * Update copyright statement for image contained within screenshot
