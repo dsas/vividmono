@@ -13,8 +13,8 @@ VividMono is designed to be a clean and simple theme for personal blogging. It f
 == Changelog ==
 
 = 1.1 =
- * Remove ref attribute from navigation block
- * Improve responsitivity on front page for posts with categories & tags
+* Remove ref attribute from navigation block
+* Improve responsitivity on front page for posts with categories & tags
 
 = 1.0.3 =
 * Update copyright statement for image contained within screenshot
