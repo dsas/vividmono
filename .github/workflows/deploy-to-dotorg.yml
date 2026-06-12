@@ -9,6 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
+    - name: Install Subversion
+      run: sudo apt-get update && sudo apt-get install -y subversion
     - name: WordPress Theme Deploy
       uses: Codeinwp/action-wordpress-theme-deploy@primary
       env:

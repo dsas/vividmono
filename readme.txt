@@ -12,6 +12,9 @@ VividMono is designed to be a clean and simple theme for personal blogging. It f
 
 == Changelog ==
 
+= 1.1.3 =
+ * Fix WordPress.org deployment workflow
+
 = 1.1.2 =
  * Bump tested WordPress version and minimum PHP requirement
 
